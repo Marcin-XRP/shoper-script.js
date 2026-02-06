@@ -1,3 +1,5 @@
+alert('Shoper: skrypt z GitHuba działa ✅');
+
 document.addEventListener('DOMContentLoaded', function () {
   const h1 = document.querySelector('.header-home-bg__content.content--main h1.split');
   if (!h1) return;
